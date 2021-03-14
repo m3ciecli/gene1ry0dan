@@ -1,0 +1,30 @@
+{
+  "name": "wannabeselfish",
+  "version": "1.1.7",
+  "author": "Tesla",
+  "license": "GPL-3.0-or-later",
+  "description": "A multi purpose discord self bot with bypass capabilities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mrakovic-ORG/WannabeSelfish"
+  },
+  "keywords": [
+    "discord",
+    "discord bot",
+    "self bot"
+  ],
+  "dependencies": {
+    "colors": "^1.4.0",
+    "crypto-js": "^4.0.0",
+    "discord.js": "11.6.4",
+    "node-fetch": "^2.6.1",
+    "package.json": "^2.0.1",
+    "prompts": "^2.4.0",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2"
+  }
+}
