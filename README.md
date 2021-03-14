@@ -8,7 +8,7 @@
 - Guardado por uma chave
 - Messagens fetch limit bypass
 
-### Install
+### Instalação
 ```sh
 git clone https://github.com/deleted0x/gene1yodan
 cd gene1ry0dan
