@@ -1,20 +1,19 @@
-# WannabeSelfish
-A multi purpose discord self bot with bypass capabilities.
+# gene1ry0dan
 
-### Preview
-![preview](images/preview.gif)
 
-### Features
-- Fully automated CLI to GUI interface
-- AES Encryption for token
-- Message fetch limit bypass
+### Amostra
+![preview](images/preview.png)
+
+### Funcionamentos
+- Guardado por uma chave
+- Messagens fetch limit bypass
 
 ### Install
 ```sh
-git clone https://github.com/Mrakovic-ORG/WannabeSelfish
-cd WannabeSelfish
+git clone https://github.com/deleted0x/gene1yodan
+cd gene1ry0dan
 npm install
 npm start
 ```
-### Disclaimer
-We are not responsible for any account banishment, it has been made for educational purpose.
+### Aviso
+Não sou responsável por qualquer banimento de conta, foi feito para fins educacionais.
