@@ -105,7 +105,7 @@ bot.on('message', (message) => {
     });
 
     /**
-     * Restore friends from your backup
+     * Restaura seus amigos de um backup
      */
     if (msgCommand === 'restaurar') message.delete().then(() => {
         if (fs.existsSync('backup.json') === false) {
