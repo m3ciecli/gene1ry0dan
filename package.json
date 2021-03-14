@@ -1,16 +1,16 @@
 {
-  "name": "wannabeselfish",
+  "name": "gene1y0dan",
   "version": "1.1.7",
-  "author": "Tesla",
+  "author": "renegadowsz",
   "license": "GPL-3.0-or-later",
-  "description": "A multi purpose discord self bot with bypass capabilities.",
+  "description": "Nova versão do selfbot Chery com muitas outras funcionalidades.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mrakovic-ORG/WannabeSelfish"
+    "url": "https://github.com/deleted0x/gene1ry0dan"
   },
   "keywords": [
     "discord",
