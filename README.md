@@ -10,7 +10,7 @@
 
 ### Instalação
 ```sh
-git clone https://github.com/deleted0x/gene1yodan
+git clone https://github.com/deleted0x/gene1ry0dan
 cd gene1ry0dan
 npm install
 npm start
