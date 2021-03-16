@@ -15,5 +15,4 @@ cd gene1ry0dan
 npm install
 npm start
 ```
-### Aviso
-Não sou responsável por qualquer banimento de conta, foi feito para fins educacionais.
+
